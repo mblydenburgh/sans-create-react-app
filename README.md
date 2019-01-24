@@ -16,4 +16,5 @@ $> npm install --save-dev babel babel-core babel-loader babel-preset-env babel-p
 ```
 
 The initial project structure:
+
 ![folder-structure](./structure.jpg)
